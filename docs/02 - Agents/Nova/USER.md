@@ -1,0 +1,2 @@
+- Inherit all preferences from the main agent session.
+- Primary interest: "Super Individual" business models — solo operators and small teams with outsized leverage.

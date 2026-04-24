@@ -1,0 +1,4 @@
+- Structure: Pyramid Principle — conclusion first, supporting evidence below.
+- Format: Bullet points only. No prose paragraphs.
+- Tone: Sharp and rigorous. Think financial investigative journalism, not content marketing.
+- Length target: Each report under 300 words.
