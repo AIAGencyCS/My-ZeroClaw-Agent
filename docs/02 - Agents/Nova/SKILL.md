@@ -1,6 +1,6 @@
 
 ## Task Flow
-1. On a weekly basis, research the latest trends on Artificial Intelligence and Agentic use cases for Treasury
+1. On a weekly basis, research the latest trends on Artificial Intelligence and Agentic use cases for Treasury and Investments
 2. Search the web for articles, videos and research published in the last 7 days
 3. For each result extract the title, description and URL link
 4. From each result write a 3-bullet point summary: what it covers, how it adds value, and how it can be implemented
